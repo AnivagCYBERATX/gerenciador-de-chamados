@@ -32,7 +32,7 @@ bash
 
 - Compilador GCC ou compatível
 - Sistema com suporte a terminal/console
-- Visual Studio code (EXEMPLO)
+- Visual Studio code (EXEMPLO) ou um Copilador Online (Programiz) é o que eu mais uso.
 ## Autor
 
 Projeto acadêmico desenvolvido para a disciplina de Estrutura de Dados
